@@ -1,6 +1,4 @@
-
-markdown
-Copy code
+demo: https://fetch-data-using-swr.vercel.app
 # SWR Data Fetching Example
 
 This is a simple example of data fetching and pagination using **SWR** in a React application. The app displays a list of posts fetched from a public API with pagination controls.
